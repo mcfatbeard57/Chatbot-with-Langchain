@@ -10,3 +10,4 @@ Here are some key points from the video:
 * A vector database can be used to store and retrieve relevant information for the chatbot.
 * There are some limitations to the RAG approach, such as the need to carefully select and curate the information sources used by the chatbot.
 
+.
